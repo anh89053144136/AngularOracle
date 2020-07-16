@@ -1,0 +1,7 @@
+/node_modules/*
+/AngularOracle/wwwroot/*
+/AngularOracle/bin/*
+/AngularOracle/obj/*
+/TestResults/*
+/AllTests/bin/*
+/AllTests/obj/*
